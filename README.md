@@ -3,13 +3,13 @@
 Self learning
 
 Rim Effect :
-![Rim](assets/media/Rim.png)
+![Rim](https://github.com/RymOUENZAR/Surface-Shaders/tree/master/Assets/Media/Rim.png)
 
 Dissolve :
-![Dissolve](assets/media/dissolve.gif)
+![Dissolve](https://github.com/RymOUENZAR/Surface-Shaders/tree/master/Assets/Media/Dissolve.gif)
 
 Stencil Mask :
-![Stencil](assets/media/stencil.gif)
+![Stencil](https://github.com/RymOUENZAR/Surface-Shaders/tree/master/Assets/Media/Stencil.gif)
 
 Follow Mask :
-![Follow](assets/media/follow.gif)
+![Follow](https://github.com/RymOUENZAR/Surface-Shaders/tree/master/Assets/Media/Follow.gif)
