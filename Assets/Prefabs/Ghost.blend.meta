@@ -10,6 +10,10 @@ ModelImporter:
     100008: RWing
     100010: Tail
     100012: WingL
+    100014: Camera
+    100016: RWing_end
+    100018: Tail_end
+    100020: WingL_end
     400000: Armature
     400002: //RootNode
     400004: Ghost
@@ -17,7 +21,13 @@ ModelImporter:
     400008: RWing
     400010: Tail
     400012: WingL
+    400014: Camera
+    400016: RWing_end
+    400018: Tail_end
+    400020: WingL_end
+    2000000: Camera
     2100000: Material_001
+    2100002: Material.001
     4300000: Ghost
     7400000: Default Take
     9500000: //RootNode
