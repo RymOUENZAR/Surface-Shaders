@@ -3,13 +3,13 @@
 Self learning
 
 Rim Effect :
-![Rim]("assets/media/Rim.png")
+![Rim](assets/media/Rim.png)
 
 Dissolve :
-![Dissolve]("assets/media/dissolve.gif")
+![Dissolve](assets/media/dissolve.gif)
 
 Stencil Mask :
-![Stencil]("assets/media/stencil.gif")
+![Stencil](assets/media/stencil.gif)
 
 Follow Mask :
-![Follow]("assets/media/follow.gif")
+![Follow](assets/media/follow.gif)
